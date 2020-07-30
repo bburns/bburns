@@ -2,7 +2,7 @@
 
 I'm currently working as a web developer for MRIIOT in Chicago. 
 
-In my spare time I work on Neomem, an information manager, and like to paint. 
+In my spare time I work on Neomem, an information manager. 
 
 From [PyVoyager](https://github.com/bburns/PyVoyager): 
 

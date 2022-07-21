@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Summer 2022
 
-You can use the [editor on GitHub](https://github.com/bburns/bburns/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Austin to Sulphur Springs, TX
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We wound up mostly being in the car from 12:30 to 7:30 - too much! 
 
-### Markdown
+Salado was a really cool art town - lots of old buildings, galleries etc. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Veered off I35 around Waco and went through small towns, out of curiosity. But in hindsight staying on I35 would have been better - the towns were kind of rundown and depressing, and in between was just farmland and trees, not very scenic tho. 
 
-```markdown
-Syntax highlighted code block
+We did stop at a park NE of Waco and let Zoey out to stretch - it was a huge park on a lake, would have been nice to camp and swim.
 
-# Header 1
-## Header 2
-### Header 3
+![zoey in tent](images/2022-07-17%2016.19.58%20zoey%20in%20tent.jpg)
 
-- Bulleted
-- List
+Zoey was not crazy about being outside, mainly because it was so hot out.
 
-1. Numbered
-2. List
+Found a nice Hampton Inn in Sulphur Springs. 
 
-**Bold** and _Italic_ and `Code` text
+## Sulphur Springs to Hot Springs, AR
 
-[Link](url) and ![Image](src)
-```
+Drove towards Texarcana, tried to find a decent McDonalds but the one was saw looked sketchy.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+DeGrey Lake was huge and gorgeous, with low hills and trees - and no houses on it!
 
-### Jekyll Themes
+## Hot Springs to Fairfield Bay
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bburns/bburns/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![lake dardanelle](images/2022-07-20%2013.44.43%20lake%20dardanelle.jpg)
 
-### Support or Contact
+Lake Dardanelle
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Fairfield Bay
+
+![](images/2022-07-21%2010.16.10%20greers%20lake.jpg)
+
+Greers Lake
+

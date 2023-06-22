@@ -1,6 +1,6 @@
 # Brian Burns
 
-Working on Neomem, an information manager - https://github.com/bburns/Neomem.
+Working on Neomem, an information manager - https://github.com/neomem.
 
 On Twitter at https://twitter.com/bburnskm.
 

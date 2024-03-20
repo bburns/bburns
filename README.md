@@ -1,7 +1,5 @@
 # Brian Burns
 
-Working on Neomem, an information manager - https://github.com/neomem.
-
 On Twitter at https://twitter.com/bburnskm.
 
 From [PyVoyager](https://github.com/bburns/PyVoyager): 
